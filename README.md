@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi ! ⚡️
 
-<!--
-**enzoferey/enzoferey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Enzo and I'm learning to be the developer you want to work with.
 
-Here are some ideas to get you started:
+I'm a super energetic person who:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 codes a lot  
+🍳 eats a lot  
+🏋🏻‍♂️ trains a lot
+
+I have been doing web development for the last 10 years bootstrapping +50 products in a wide variety of markets 🚀
+
+Currently leading frontend at [chance.co](https://www.chance.co) and everything tech at [victoryroadvgc.com](https://victoryroadvgc.com) 🎯
