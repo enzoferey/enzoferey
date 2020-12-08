@@ -10,4 +10,4 @@ I'm a super energetic person who:
 
 I have been doing web development for the last 10 years bootstrapping +50 products in a wide variety of markets 🚀
 
-Currently leading frontend at [chance.co](https://www.chance.co) and pushing my life project [toptile.life](https://toptile.life) 🎯
+Currently leading tech at [chance.co](https://www.chance.co) and pushing my life project [toptile.life](https://toptile.life) 🎯
