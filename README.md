@@ -10,4 +10,4 @@ I'm a super energetic person who:
 
 I have been doing web development for the last 10 years bootstrapping +50 products in a wide variety of markets 🚀
 
-Currently leading tech at [chance.co](https://www.chance.co) and pushing my life project [toptile.life](https://toptile.life) 🎯
+Currently looking for new opportunities as both freelance and full time employee, write me at hello@enzoferey.com 🎯
