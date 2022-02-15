@@ -10,4 +10,4 @@ I'm a super energetic person who:
 
 I have been doing web development for the last 10 years bootstrapping +50 products in a wide variety of markets 🚀
 
-Currently looking for new opportunities as both freelance and full time employee, write me at hello@enzoferey.com 🎯
+Currently building [Bite Vein Studios](https://www.biteveinstudios.com/) and working at [Protofire](https://protofire.io/) 🎯
