@@ -8,6 +8,6 @@ I'm a super energetic person who:
 🍳 eats a lot  
 🏋🏻‍♂️ trains a lot
 
-I have been doing web development for the last 10 years bootstrapping +50 products in a wide variety of markets 🚀
+I have been doing web development for the last 11 years bootstrapping +50 products in a wide variety of markets 🚀
 
 Currently building [Bite Vein Studios](https://www.biteveinstudios.com/) 🎯
