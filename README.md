@@ -9,3 +9,5 @@ I'm a super energetic person who:
 🏋🏻‍♂️ trains a lot
 
 I have been doing web development for the last 11 years bootstrapping +50 products in a wide variety of markets 🚀
+
+https://enzoferey.com
