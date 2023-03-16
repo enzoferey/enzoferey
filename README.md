@@ -1,6 +1,6 @@
 ### Hi ! ⚡️
 
-My name is Enzo and I'm learning to be the developer you want to work with.
+My name is Enzo and I'm providing technical leadership to young teams.
 
 I'm a super energetic person who:
 
