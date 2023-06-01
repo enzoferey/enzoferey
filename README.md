@@ -10,6 +10,6 @@ I'm a super energetic person who:
 
 I have been doing web development for the last 11 years bootstrapping +50 products in a wide variety of markets 🚀
 
-Currently building [https://10xteam.dev](https://www.10xteam.dev) 🎯
+Currently building [10xTeam.dev](https://www.10xteam.dev) 🎯
 
 https://enzoferey.com
